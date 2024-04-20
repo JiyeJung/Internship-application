@@ -10,11 +10,9 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 - [Variational Autoencoder (VAE) Project](#variational-autoencoder-vae-project)
 - [Brain Image Registration Project](#brain-image-registration-project)
 - [Visual Production Work](#visual-production-work)
-- [Artist Nest at the Art & Science Festival](#artist-nest-at-the-art--science-festival)
 - [Angel Project Indie Wamma](#angel-project-indie-wamma)
 - [Kkumdori Music Video](#kkumdori-music-video)
-- [Artist Nest at the Art & Science Festival](#Artist-Nest-at-the-Art-Science-Festival)
-
+- [Artist Nest at the Art & Science Festival](#artist-nest-at-the-art--science-festival)
 
 ## Resume
 Please find my resume attached which outlines my educational background, technical skills, and work history.
