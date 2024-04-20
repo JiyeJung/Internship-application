@@ -58,37 +58,64 @@ Detail your work in visual production, such as video works, illustrations, and m
 
 
 **Fireball.toe**
+
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
+
 **Technologies Used:** TouchDesigner
+
 **Role:** Responsible for the complete design and development of the visual effects, ensuring seamless transitions and vibrant color changes to enhance the visual appeal.
+
 **Challenges:** The main challenge was determining the optimal combination of parameters within TouchDesigner's operators to produce meaningful and visually appealing changes.
+
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
 **Audioreactive.toe**
+
 **Description:** Crafted an interactive visual that consists of an array of small squares, which dynamically adjust their size and position in response to music. This project utilizes TouchDesigner's robust audio-reactive capabilities to create a responsive and engaging visual display.
+
 **Technologies Used:** TouchDesigner
+
 **Role:** Led the implementation of the interactive elements using TouchDesigner, focusing on real-time audio responsiveness.
+
 **Challenges:** The challenge was fine-tuning the responsiveness of the visuals to various audio inputs, requiring meticulous adjustments to ensure synchronization and visual impact.
+
 **Results and Impact:** This piece not only showcases the potential of interactive visual art but also significantly contributed to my understanding and proficiency with TouchDesigner, particularly in creating audio-responsive environments.
 
 ### Angel Project Indie Wamma
+
 **Description:** Directed by Lim Ho-kyung, this series of video pieces was a collaborative fusion of performance and poetry funded by a public contest by the Korea Foundation for the Arts in 2021. My role encompassed production, direction, editing, acting, and narration across all five pieces. These works were a submission to the Bucheon International Fantastic Film Festival, showcasing the interplay of video, music, and narrative.
+
 **Technologies Used:** Final Cut Pro
+
 **Challenges:** The intricate task of blending video, music, and narration into a cohesive experience was a creative hurdle that I thoroughly enjoyed overcoming.
+
 **Results and Impact:** The final production was a testament to the power of interdisciplinary collaboration and received notable attention at the film festival.
 
 ### Kkumdori Music Video
+
 **Description:** This music video was a compilation of scenes from a web drama I acted in during 2021. My contributions to the production included both acting and assistance in editing, working to ensure thematic consistency across various scenes.
+
 **Technologies Used:** Final Cut Pro
+
 **Challenges:** Creating a unified narrative from disparate scenes and applying visual effects that accurately conveyed the intended emotions proved to be challenging yet fulfilling.
+
 **Results and Impact:** The music video served as an amalgamation of storytelling and acting, providing a visual complement to the web drama's narrative.
 
 ### Artist Nest at the Art & Science Festival
+
 **Description:** As a significant part of the 2019 Art & Science Festival in Daejeon, Korea, Artist Nest was a convergence of dance, visual art, and science. My role was coordinating the event's planning and program, overseeing the installation and maintenance of media art works, including projection mapping using high-ANSI projectors.
+
 **Technologies Used:** Projection Mapping Techniques, Media Art Installations
+
 **Challenges:** Precise adjustments of projection mappings on a vast stage backdrop and unforeseen operational mishaps required quick problem-solving and meticulous attention to detail.
+
 **Results and Impact:** The festival attracted nationwide attention and bolstered Daejeon City's commitment to fostering the intersection of art and science. My management of notable exhibitions like 'City of Sound' and 'Formation of the City' contributed to the festival's interactive and immersive experience.
 ![Interactive Installation at Artist Nest](sub/Artist_Nest_formation_of_the_city_1.jpeg)
+<img src="sub/Artist_Nest_formation_of_the_city_1.jpeg" width="400" alt="Formation of the City 1"/>
+<img src="sub/Artist_Nest_formation_of_the_city_2.jpeg" width="400" alt="Formation of the City 2"/>
+<img src="sub/Artist_Nest_city_of_sound.jpeg" width="400" alt="City of Sound "/>
+<img src="sub/artist_Nest_performance_Alice.jpeg" width="400" alt="Performance Alice"/>
+
 
 
 ### Video Projects
