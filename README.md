@@ -4,20 +4,22 @@
 Welcome to my professional portfolio. This collection of work demonstrates my journey across system development and visual production, highlighting my technical competencies and creative endeavors.
 
 ## Table of Contents
-- [Resume](#resume)
-- [Project Overviews](#project-overviews)
-- [Technological Contributions](#technological-contributions)
-- [Visual Production Work](#visual-production-work)
-- [Lectures and Collaborations](#lectures-and-collaborations)
-- [Acknowledgements](#acknowledgements)
-- [Contact Information](#contact-information)
-- [Intellectual Property Declaration](#intellectual-property-declaration)
+
+
+
+- [3D Reconstruction Project](#3D Reconstruction Project)
+- [Variational Autoencoder (VAE) Project](#Variational Autoencoder (VAE) Project)
+- [Brain Image Registration Project](#Brain Image Registration Project)
+- [Visual Production Work](#Visual Production Work)
+- [Artist Nest at the Art & Science Festival](#Artist Nest at the Art & Science Festival)
+- [Angel Project Indie Wamma](#Angel Project Indie Wamma)
+- [Kkumdori Music Video](#Kkumdori Music Video)
+- [Artist Nest at the Art & Science Festival](#Artist Nest at the Art & Science Festival)
 
 ## Resume
 Please find my resume attached which outlines my educational background, technical skills, and work history.
-- [Jung_Jiye_Resume.pdf](#)
+- [CV_Jiye_Jung_2024.pdf](#)
 
-## Project Overviews
 
 ### 3D Reconstruction Project
 **Description:** The project focused on 3D reconstruction from stereo data by estimating disparity maps from rectified images using the [2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/). The process included the computation of disparity using scanline approaches and similarity metrics, cross-checking, and ambiguity resolution. A significant aspect of the project was employing a Markov Random Field (MRF) via the [gco-wrapper](https://github.com/Borda/pyGCO) to refine the disparity maps, addressing inaccuracies and reconstructing depth maps under various conditions of lighting and exposure.
@@ -118,14 +120,3 @@ Detail your work in visual production, such as video works, illustrations, and m
 
 
 
-### Video Projects
-**Angel_project_Indiwamma.mp4**
-**Description:** Contributed to the Bucheon Fantastic Film Festival through acting and directing in this video project.
-**Music_Video_Ccumdori.mp4**
-**Description:** Participated as an actor in a music video for a web drama, showcasing storytelling through performance.
-
-## Lectures and Collaborations
-Detail any lectures, educational contributions, or collaborative projects you have been involved with, specifying your role and contribution.
-
-## Acknowledgements
-My sincere appreciation goes out to all the individuals and teams who have provided guidance and collaboration throughout these
