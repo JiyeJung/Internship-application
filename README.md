@@ -114,7 +114,7 @@ Detail your work in visual production, such as video works, illustrations, and m
 <img src="sub/Artist_Nest_formation_of_the_city_1.jpeg" width="400" alt="Formation of the City 1"/>
 <img src="sub/Artist_Nest_formation_of_the_city_2.jpeg" width="400" alt="Formation of the City 2"/>
 <img src="sub/Artist_Nest_city_of_sound.jpeg" width="400" alt="City of Sound "/>
-<img src="sub/Artist_Nest_performance_Alice.jpg" width="400" alt="Performance Alice"/>
+<img src="sub/artist_Nest_performance_Alice.jpg" width="400" alt="Performance Alice"/>
 
 
 
