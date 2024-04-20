@@ -15,14 +15,6 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 - [Kkumdori Music Video](#kkumdori-music-video)
 - [Artist Nest at the Art & Science Festival](#Artist-Nest-at-the-Art-Science-Festival)
 
-- [3D Reconstruction Project](#3D Reconstruction Project)
-- [Variational Autoencoder (VAE) Project](#Variational Autoencoder (VAE) Project)
-- [Brain Image Registration Project](#Brain Image Registration Project)
-- [Visual Production Work](#Visual Production Work)
-- [Artist Nest at the Art & Science Festival](#Artist Nest at the Art & Science Festival)
-- [Angel Project Indie Wamma](#Angel Project Indie Wamma)
-- [Kkumdori Music Video](#Kkumdori Music Video)
-- [Artist Nest at the Art & Science Festival](#Artist Nest at the Art & Science Festival)
 
 ## Resume
 Please find my resume attached which outlines my educational background, technical skills, and work history.
