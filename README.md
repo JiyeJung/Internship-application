@@ -44,7 +44,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** Established the efficacy of VAEs in high-quality image reconstructions and showcased their potential in medical imaging analysis, setting the stage for future integration with GANs for enhanced performance.
 
 ## Brain Image Registration Project
-- [Brain Image Registration Project (Jupyter Notebook)](./3_Brain_image_registration.ipynb)
+- [Brain Image Registration Project (Jupyter Notebook)](./3._Brain_image_registration.ipynb)
 
 **Description:** This project centered on enhancing the performance of the VoxelMorph network, a deep learning-based approach for medical image registration. Key improvements were achieved by exploring innovative loss functions designed to optimize the registration accuracy of brain tomography images. The project employed various loss functions, including the F-beta Loss, Log-cosh Dice Loss, and Structural Similarity Loss, each contributing uniquely to the alignment precision and robustness of the model.
 
@@ -62,7 +62,7 @@ Please find my resume attached which outlines my educational background, technic
 
 
 ### Fireball.toe
-- [ Fireball Project (TouchDesigner)](./4_fireball.toe)
+- [ Fireball Project (TouchDesigner)](./4._fireball.toe)
 
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
