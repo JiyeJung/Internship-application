@@ -62,7 +62,7 @@ Please find my resume attached which outlines my educational background, technic
 
 
 ### Fireball.toe
-- [ Fireball Project (TouchDesigner)](./fireball.toe)
+- [ Fireball Project (TouchDesigner)](./Fireball.toe)
 
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
@@ -73,7 +73,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
 ### Parrot.toe
-- [ Parrot Project (TouchDesigner)](./5_Parrot.toe)
+- [ Parrot Project (TouchDesigner)](./Parrot.toe)
 
 ### Description
 This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
@@ -104,7 +104,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 **Technologies Used(Fireball,Audioreactive,Parrot):** TouchDesigner
 
 ## Angel Project Indie Wamma
-- [ Angel Project Indie Wamma](./Angel_project_Indiwamma_480...)
+- [ Angel Project Indie Wamma](./Angel_project_Indiwamma_480.mov)
 **Description:** Directed by Lim Ho-kyung, this series of video pieces was a collaborative fusion of performance and poetry funded by a public contest by the Korea Foundation for the Arts in 2021. My role encompassed production, direction, editing, acting, and narration across all five pieces. These works were a submission to the Bucheon International Fantastic Film Festival, showcasing the interplay of video, music, and narrative.
 
 **Technologies Used:** Final Cut Pro
