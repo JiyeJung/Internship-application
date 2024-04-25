@@ -66,11 +66,10 @@ Please find my resume attached which outlines my educational background, technic
 
 ## Touchdesigner Work
 
-- [TouchDesigner Work - Fireball Project](./4_fireball.toe)
-- [TouchDesigner Work - Audio Reactive Project](./5_audioreactive.toe)
 
 
 ### Fireball.toe
+- [ Fireball Project (TouchDesigner)](./4_fireball.toe)
 
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
@@ -81,6 +80,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
 ### Parrot.toe
+- [ Parrot Project (TouchDesigner)](./5_Parrot.toe)
 
 ### Description
 This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
@@ -96,6 +96,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 ### Audioreactive.toe 
+- [ Audio Reactive Project (TouchDesigner)](./7_Audioreactive.toe)
 
 **Description:** Crafted an interactive visual that consists of an array of small squares, which dynamically adjust their size and position in response to music. This project utilizes TouchDesigner's robust audio-reactive capabilities to create a responsive and engaging visual display.
 
@@ -110,7 +111,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 **Technologies Used(Fireball,Audioreactive,Parrot):** TouchDesigner
 
 ## Angel Project Indie Wamma
-
+- [ Angel Project Indie Wamma](./6_Angel_project_Indiwamma_480...)
 **Description:** Directed by Lim Ho-kyung, this series of video pieces was a collaborative fusion of performance and poetry funded by a public contest by the Korea Foundation for the Arts in 2021. My role encompassed production, direction, editing, acting, and narration across all five pieces. These works were a submission to the Bucheon International Fantastic Film Festival, showcasing the interplay of video, music, and narrative.
 
 **Technologies Used:** Final Cut Pro
@@ -119,17 +120,9 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 **Results and Impact:** The final production was a testament to the power of interdisciplinary collaboration and received notable attention at the film festival.
 
-### Kkumdori Music Video
-
-**Description:** This music video was a compilation of scenes from a web drama I acted in during 2021. My contributions to the production included both acting and assistance in editing, working to ensure thematic consistency across various scenes.
-
-**Technologies Used:** Final Cut Pro
-
-**Challenges:** Creating a unified narrative from disparate scenes and applying visual effects that accurately conveyed the intended emotions proved to be challenging yet fulfilling.
-
-**Results and Impact:** The music video served as an amalgamation of storytelling and acting, providing a visual complement to the web drama's narrative.
-
 ## Artist Nest at the Art & Science Festival
+- [ Artist Nest at the Art & Science Festival (Image)](./8_Artist_Nest.jpeg)
+
 
 **Description:** As a significant part of the 2019 Art & Science Festival in Daejeon, Korea, Artist Nest was a convergence of dance, visual art, and science. My role was coordinating the event's planning and program, overseeing the installation and maintenance of media art works, including projection mapping using high-ANSI projectors.
 
@@ -144,5 +137,18 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 <img src="sub/Artist_Nest_city_of_sound.jpeg" width="400" alt="City of Sound "/>
 <img src="sub/artist_Nest_performance_Alice.jpg" width="400" alt="Performance Alice"/>
 
+
+
+
+### Kkumdori Music Video
+- [ Kkumdori Music Video](./9_Music_Video_Kkumdori.mp4)
+
+**Description:** This music video was a compilation of scenes from a web drama I acted in during 2021. My contributions to the production included both acting and assistance in editing, working to ensure thematic consistency across various scenes.
+
+**Technologies Used:** Final Cut Pro
+
+**Challenges:** Creating a unified narrative from disparate scenes and applying visual effects that accurately conveyed the intended emotions proved to be challenging yet fulfilling.
+
+**Results and Impact:** The music video served as an amalgamation of storytelling and acting, providing a visual complement to the web drama's narrative.
 
 
