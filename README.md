@@ -3,7 +3,6 @@
 ## Introduction
 Welcome to my professional portfolio. This collection of work demonstrates my journey across system development and visual production, highlighting my technical competencies and creative endeavors.
 
-## Table of Contents
 
 ## Table of Contents
 - [3D Reconstruction Project](#3d-reconstruction-project)
@@ -19,7 +18,7 @@ Please find my resume attached which outlines my educational background, technic
 - [CV_Jiye_Jung_2024.pdf](#)
 
 
-### 3D Reconstruction Project
+## 3D Reconstruction Project
 **Description:** The project focused on 3D reconstruction from stereo data by estimating disparity maps from rectified images using the [2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/). The process included the computation of disparity using scanline approaches and similarity metrics, cross-checking, and ambiguity resolution. A significant aspect of the project was employing a Markov Random Field (MRF) via the [gco-wrapper](https://github.com/Borda/pyGCO) to refine the disparity maps, addressing inaccuracies and reconstructing depth maps under various conditions of lighting and exposure.
 
 **Technologies Used:** Python, `Middlebury2014Stereo` from `torchvision.datasets`, `matplotlib`, `numpy`, `tqdm`, `gco`, `skimage.transform`
@@ -30,7 +29,7 @@ Please find my resume attached which outlines my educational background, technic
 
 **Results and Impact:** Successfully generated and compared depth maps for selected image pairs, demonstrating the effectiveness of MRF in enhancing the quality of 3D reconstructions from stereo images.
 
-### Variational Autoencoder (VAE) Project
+## Variational Autoencoder (VAE) Project
 **Description:** This two-part project involved upgrading an autoencoder to a Variational Autoencoder (VAE) for the MNIST dataset and employing the VAE for out-of-distribution detection in histological brain data. The project aimed to improve upon the traditional autoencoder's performance and develop a method to identify data artifacts through anomaly detection. The implementation focused on spatial VAE architecture and iterative model refinement to accurately reconstruct high-resolution data and distinguish between corrupted and uncorrupted samples.
 
 **Technologies Used:** Python, `numpy`, `matplotlib`, `torch`, `torchvision`, `torch.utils.data`, `cv2`, `os`, `torch.nn`, `torch.nn.functional`, `torch.optim`
@@ -41,7 +40,7 @@ Please find my resume attached which outlines my educational background, technic
 
 **Results and Impact:** Established the efficacy of VAEs in high-quality image reconstructions and showcased their potential in medical imaging analysis, setting the stage for future integration with GANs for enhanced performance.
 
-### Brain Image Registration Project
+## Brain Image Registration Project
 **Description:** This project centered on enhancing the performance of the VoxelMorph network, a deep learning-based approach for medical image registration. Key improvements were achieved by exploring innovative loss functions designed to optimize the registration accuracy of brain tomography images. The project employed various loss functions, including the F-beta Loss, Log-cosh Dice Loss, and Structural Similarity Loss, each contributing uniquely to the alignment precision and robustness of the model.
 
 **Technologies Used:** Python, Voxelmorph, TensorFlow, gco-wrapper, and various libraries for handling and processing medical images.
@@ -94,7 +93,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 **Technologies Used(Fireball,Audioreactive,Parrot):** TouchDesigner
 
-### Angel Project Indie Wamma
+## Angel Project Indie Wamma
 
 **Description:** Directed by Lim Ho-kyung, this series of video pieces was a collaborative fusion of performance and poetry funded by a public contest by the Korea Foundation for the Arts in 2021. My role encompassed production, direction, editing, acting, and narration across all five pieces. These works were a submission to the Bucheon International Fantastic Film Festival, showcasing the interplay of video, music, and narrative.
 
@@ -114,7 +113,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 **Results and Impact:** The music video served as an amalgamation of storytelling and acting, providing a visual complement to the web drama's narrative.
 
-### Artist Nest at the Art & Science Festival
+## Artist Nest at the Art & Science Festival
 
 **Description:** As a significant part of the 2019 Art & Science Festival in Daejeon, Korea, Artist Nest was a convergence of dance, visual art, and science. My role was coordinating the event's planning and program, overseeing the installation and maintenance of media art works, including projection mapping using high-ANSI projectors.
 
