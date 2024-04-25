@@ -17,15 +17,8 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 Please find my resume attached which outlines my educational background, technical skills, and work history.
 - [CV_Jiye_Jung_2024.pdf](./CV_Jiye_Jung_2024.pdf)
 
-
-
-
-- [Angel Project Indie Wamma](./6_Angel_project_Indiwamma_480...)
-- [Kkumdori Music Video](./7_Music_Video_Ccumdori.mp4)
-- [Artist Nest at the Art & Science Festival (Image)](./8_Artist_Nest.jpeg)
-
 ## 3D Reconstruction Project
-- [3D Reconstruction Project (Jupyter Notebook)](./1_3d_reconstruction_project.ipynb)
+- [3D Reconstruction Project (Jupyter Notebook)](./1.%203d_reconstruction_project.ipynb_3d_reconstruction_project.ipynb)
 
 **Description:** The project focused on 3D reconstruction from stereo data by estimating disparity maps from rectified images using the [2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/). The process included the computation of disparity using scanline approaches and similarity metrics, cross-checking, and ambiguity resolution. A significant aspect of the project was employing a Markov Random Field (MRF) via the [gco-wrapper](https://github.com/Borda/pyGCO) to refine the disparity maps, addressing inaccuracies and reconstructing depth maps under various conditions of lighting and exposure.
 
@@ -38,7 +31,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** Successfully generated and compared depth maps for selected image pairs, demonstrating the effectiveness of MRF in enhancing the quality of 3D reconstructions from stereo images.
 
 ## Variational Autoencoder (VAE) Project
-- [Variational Autoencoder (VAE) Project (Jupyter Notebook)](./2_VAE_project.ipynb)
+- [Variational Autoencoder (VAE) Project (Jupyter Notebook)](./2.%20VAE_project.ipynb_VAE_project.ipynb)
 
 **Description:** This two-part project involved upgrading an autoencoder to a Variational Autoencoder (VAE) for the MNIST dataset and employing the VAE for out-of-distribution detection in histological brain data. The project aimed to improve upon the traditional autoencoder's performance and develop a method to identify data artifacts through anomaly detection. The implementation focused on spatial VAE architecture and iterative model refinement to accurately reconstruct high-resolution data and distinguish between corrupted and uncorrupted samples.
 
@@ -51,7 +44,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** Established the efficacy of VAEs in high-quality image reconstructions and showcased their potential in medical imaging analysis, setting the stage for future integration with GANs for enhanced performance.
 
 ## Brain Image Registration Project
-- [Brain Image Registration Project (Jupyter Notebook)](./3_Brain_image_registration.ipynb)
+- [Brain Image Registration Project (Jupyter Notebook)](./3.%20Brain_image_registration.ipynb_Brain_image_registration.ipynb)
 
 **Description:** This project centered on enhancing the performance of the VoxelMorph network, a deep learning-based approach for medical image registration. Key improvements were achieved by exploring innovative loss functions designed to optimize the registration accuracy of brain tomography images. The project employed various loss functions, including the F-beta Loss, Log-cosh Dice Loss, and Structural Similarity Loss, each contributing uniquely to the alignment precision and robustness of the model.
 
@@ -69,7 +62,7 @@ Please find my resume attached which outlines my educational background, technic
 
 
 ### Fireball.toe
-- [ Fireball Project (TouchDesigner)](./4_fireball.toe)
+- [ Fireball Project (TouchDesigner)](./4.%20Fireball.toe_fireball.toe)
 
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
@@ -80,7 +73,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
 ### Parrot.toe
-- [ Parrot Project (TouchDesigner)](./5_Parrot.toe)
+- [ Parrot Project (TouchDesigner)](./5.%20Parrot.toe_Parrot.toe)
 
 ### Description
 This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
@@ -96,7 +89,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 ### Audioreactive.toe 
-- [ Audio Reactive Project (TouchDesigner)](./7_Audioreactive.toe)
+- [ Audio Reactive Project (TouchDesigner)](./7.%20Audioreactive.toe_Audioreactive.toe)
 
 **Description:** Crafted an interactive visual that consists of an array of small squares, which dynamically adjust their size and position in response to music. This project utilizes TouchDesigner's robust audio-reactive capabilities to create a responsive and engaging visual display.
 
@@ -111,7 +104,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 **Technologies Used(Fireball,Audioreactive,Parrot):** TouchDesigner
 
 ## Angel Project Indie Wamma
-- [ Angel Project Indie Wamma](./6_Angel_project_Indiwamma_480...)
+- [ Angel Project Indie Wamma](./6.%20Angel_project_Indiwamma_480.mov_Angel_project_Indiwamma_480...)
 **Description:** Directed by Lim Ho-kyung, this series of video pieces was a collaborative fusion of performance and poetry funded by a public contest by the Korea Foundation for the Arts in 2021. My role encompassed production, direction, editing, acting, and narration across all five pieces. These works were a submission to the Bucheon International Fantastic Film Festival, showcasing the interplay of video, music, and narrative.
 
 **Technologies Used:** Final Cut Pro
@@ -121,7 +114,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 **Results and Impact:** The final production was a testament to the power of interdisciplinary collaboration and received notable attention at the film festival.
 
 ## Artist Nest at the Art & Science Festival
-- [ Artist Nest at the Art & Science Festival (Image)](./8_Artist_Nest.jpeg)
+- [ Artist Nest at the Art & Science Festival (Image)](./8.%20Artist_Nest.jpeg_Artist_Nest.jpeg)
 
 
 **Description:** As a significant part of the 2019 Art & Science Festival in Daejeon, Korea, Artist Nest was a convergence of dance, visual art, and science. My role was coordinating the event's planning and program, overseeing the installation and maintenance of media art works, including projection mapping using high-ANSI projectors.
@@ -141,7 +134,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 ### Kkumdori Music Video
-- [ Kkumdori Music Video](./9_Music_Video_Kkumdori.mp4)
+- [ Kkumdori Music Video](./9.%20Music_Video_Kkumdori.mp4_Music_Video_Kkumdori.mp4)
 
 **Description:** This music video was a compilation of scenes from a web drama I acted in during 2021. My contributions to the production included both acting and assistance in editing, working to ensure thematic consistency across various scenes.
 
