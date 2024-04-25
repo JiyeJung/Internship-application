@@ -9,7 +9,7 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 - [3D Reconstruction Project](#3d-reconstruction-project)
 - [Variational Autoencoder (VAE) Project](#variational-autoencoder-vae-project)
 - [Brain Image Registration Project](#brain-image-registration-project)
-- [Visual Production Work](#visual-production-work)
+- [Touchdesigner Work](#Touchdesigner-Work)
 - [Angel Project Indie Wamma](#angel-project-indie-wamma)
 - [Kkumdori Music Video](#kkumdori-music-video)
 - [Artist Nest at the Art & Science Festival](#artist-nest-at-the-art--science-festival)
@@ -53,7 +53,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** The project demonstrated significant improvements in the accuracy and reliability of image registration. The exploration of different loss functions provided insights into their respective impacts on model performance, guiding future implementations and potential clinical applications. These advancements contribute to the broader field of computer vision and medical imaging by improving diagnostic capabilities and treatment planning.
 
 
-## Visual Production Work
+## Touchdesigner Work
 Detail your work in visual production, such as video works, illustrations, and multimedia projects that demonstrate your artistic skills.
 
 
@@ -68,8 +68,6 @@ Detail your work in visual production, such as video works, illustrations, and m
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
 **Parrot.toe**
-
-## Parrot.toe
 
 ### Description
 This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
