@@ -61,25 +61,42 @@ Detail your work in visual production, such as video works, illustrations, and m
 
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
-**Technologies Used:** TouchDesigner
-
 **Role:** Responsible for the complete design and development of the visual effects, ensuring seamless transitions and vibrant color changes to enhance the visual appeal.
 
 **Challenges:** The main challenge was determining the optimal combination of parameters within TouchDesigner's operators to produce meaningful and visually appealing changes.
 
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
+**Parrot.toe**
+
+## Parrot.toe
+
+### Description
+This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
+
+### Role
+I was responsible for the entire project, from conceptual design to implementation. My focus was on using the Matte operator to achieve seamless integration of particle effects with the static image, ensuring that each element complemented the other without dominating the visual space.
+
+### Challenges
+Mastering the Matte operator to finely control the transparency and interaction between the particle layers and the parrot image was a significant challenge. This required careful adjustment of parameters to maintain visual harmony throughout the animation.
+
+### Results and Impact
+This project enhanced my proficiency in TouchDesigner, especially in manipulating visual elements like particle systems and transparency. It showcased the practical application of complex visual programming in creating aesthetically compelling digital artworks.
+
+
 **Audioreactive.toe**
 
 **Description:** Crafted an interactive visual that consists of an array of small squares, which dynamically adjust their size and position in response to music. This project utilizes TouchDesigner's robust audio-reactive capabilities to create a responsive and engaging visual display.
-
-**Technologies Used:** TouchDesigner
 
 **Role:** Led the implementation of the interactive elements using TouchDesigner, focusing on real-time audio responsiveness.
 
 **Challenges:** The challenge was fine-tuning the responsiveness of the visuals to various audio inputs, requiring meticulous adjustments to ensure synchronization and visual impact.
 
 **Results and Impact:** This piece not only showcases the potential of interactive visual art but also significantly contributed to my understanding and proficiency with TouchDesigner, particularly in creating audio-responsive environments.
+
+
+
+**Technologies Used(Fireball,Audioreactive,Parrot):** TouchDesigner
 
 ### Angel Project Indie Wamma
 
