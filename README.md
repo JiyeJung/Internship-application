@@ -19,7 +19,14 @@ Please find my resume attached which outlines my educational background, technic
 
 
 
+
+- [Angel Project Indie Wamma](./6_Angel_project_Indiwamma_480...)
+- [Kkumdori Music Video](./7_Music_Video_Ccumdori.mp4)
+- [Artist Nest at the Art & Science Festival (Image)](./8_Artist_Nest.jpeg)
+
 ## 3D Reconstruction Project
+- [3D Reconstruction Project (Jupyter Notebook)](./1_3d_reconstruction_project.ipynb)
+
 **Description:** The project focused on 3D reconstruction from stereo data by estimating disparity maps from rectified images using the [2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/). The process included the computation of disparity using scanline approaches and similarity metrics, cross-checking, and ambiguity resolution. A significant aspect of the project was employing a Markov Random Field (MRF) via the [gco-wrapper](https://github.com/Borda/pyGCO) to refine the disparity maps, addressing inaccuracies and reconstructing depth maps under various conditions of lighting and exposure.
 
 **Technologies Used:** Python, `Middlebury2014Stereo` from `torchvision.datasets`, `matplotlib`, `numpy`, `tqdm`, `gco`, `skimage.transform`
@@ -31,6 +38,8 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** Successfully generated and compared depth maps for selected image pairs, demonstrating the effectiveness of MRF in enhancing the quality of 3D reconstructions from stereo images.
 
 ## Variational Autoencoder (VAE) Project
+- [Variational Autoencoder (VAE) Project (Jupyter Notebook)](./2_VAE_project.ipynb)
+
 **Description:** This two-part project involved upgrading an autoencoder to a Variational Autoencoder (VAE) for the MNIST dataset and employing the VAE for out-of-distribution detection in histological brain data. The project aimed to improve upon the traditional autoencoder's performance and develop a method to identify data artifacts through anomaly detection. The implementation focused on spatial VAE architecture and iterative model refinement to accurately reconstruct high-resolution data and distinguish between corrupted and uncorrupted samples.
 
 **Technologies Used:** Python, `numpy`, `matplotlib`, `torch`, `torchvision`, `torch.utils.data`, `cv2`, `os`, `torch.nn`, `torch.nn.functional`, `torch.optim`
@@ -42,6 +51,8 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** Established the efficacy of VAEs in high-quality image reconstructions and showcased their potential in medical imaging analysis, setting the stage for future integration with GANs for enhanced performance.
 
 ## Brain Image Registration Project
+- [Brain Image Registration Project (Jupyter Notebook)](./3_Brain_image_registration.ipynb)
+
 **Description:** This project centered on enhancing the performance of the VoxelMorph network, a deep learning-based approach for medical image registration. Key improvements were achieved by exploring innovative loss functions designed to optimize the registration accuracy of brain tomography images. The project employed various loss functions, including the F-beta Loss, Log-cosh Dice Loss, and Structural Similarity Loss, each contributing uniquely to the alignment precision and robustness of the model.
 
 **Technologies Used:** Python, Voxelmorph, TensorFlow, gco-wrapper, and various libraries for handling and processing medical images.
@@ -54,6 +65,10 @@ Please find my resume attached which outlines my educational background, technic
 
 
 ## Touchdesigner Work
+
+- [TouchDesigner Work - Fireball Project](./4_fireball.toe)
+- [TouchDesigner Work - Audio Reactive Project](./5_audioreactive.toe)
+
 
 ### Fireball.toe
 
