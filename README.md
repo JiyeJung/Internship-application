@@ -31,7 +31,7 @@ Please find my resume attached which outlines my educational background, technic
 **Results and Impact:** Successfully generated and compared depth maps for selected image pairs, demonstrating the effectiveness of MRF in enhancing the quality of 3D reconstructions from stereo images.
 
 ## Variational Autoencoder (VAE) Project
-- [Variational Autoencoder (VAE) Project (Jupyter Notebook)](./2_VAE_project.ipynb)
+- [Variational Autoencoder (VAE) Project (Jupyter Notebook)](./2._VAE_project.ipynb)
 
 **Description:** This two-part project involved upgrading an autoencoder to a Variational Autoencoder (VAE) for the MNIST dataset and employing the VAE for out-of-distribution detection in histological brain data. The project aimed to improve upon the traditional autoencoder's performance and develop a method to identify data artifacts through anomaly detection. The implementation focused on spatial VAE architecture and iterative model refinement to accurately reconstruct high-resolution data and distinguish between corrupted and uncorrupted samples.
 
