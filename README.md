@@ -18,7 +18,7 @@ Please find my resume attached which outlines my educational background, technic
 - [CV_Jiye_Jung_2024.pdf](./CV_Jiye_Jung_2024.pdf)
 
 ## 3D Reconstruction Project
-- [3D Reconstruction Project (Jupyter Notebook)](./1._3d_reconstruction_project.ipynb)
+- [3D Reconstruction Project (Jupyter Notebook)](./1.3d_reconstruction_project.ipynb)
 
 **Description:** The project focused on 3D reconstruction from stereo data by estimating disparity maps from rectified images using the [2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/). The process included the computation of disparity using scanline approaches and similarity metrics, cross-checking, and ambiguity resolution. A significant aspect of the project was employing a Markov Random Field (MRF) via the [gco-wrapper](https://github.com/Borda/pyGCO) to refine the disparity maps, addressing inaccuracies and reconstructing depth maps under various conditions of lighting and exposure.
 
