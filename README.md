@@ -55,7 +55,7 @@ Please find my resume attached which outlines my educational background, technic
 
 ## Touchdesigner Work
 
-###Fireball.toe###
+### Fireball.toe
 
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
@@ -65,7 +65,7 @@ Please find my resume attached which outlines my educational background, technic
 
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
-###Parrot.toe###
+### Parrot.toe
 
 ### Description
 This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
@@ -80,7 +80,7 @@ Mastering the Matte operator to finely control the transparency and interaction 
 This project enhanced my proficiency in TouchDesigner, especially in manipulating visual elements like particle systems and transparency. It showcased the practical application of complex visual programming in creating aesthetically compelling digital artworks.
 
 
-###Audioreactive.toe###
+### Audioreactive.toe 
 
 **Description:** Crafted an interactive visual that consists of an array of small squares, which dynamically adjust their size and position in response to music. This project utilizes TouchDesigner's robust audio-reactive capabilities to create a responsive and engaging visual display.
 
