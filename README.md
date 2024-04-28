@@ -14,7 +14,7 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 - [Artist Nest at the Art & Science Festival](#artist-nest-at-the-art--science-festival)
 
 
- - [Sub Folder](./Sub-Folder) - Contains sample music and picturs for TouchDesigner projects and photos from the 'Artist Nest' exhibition.
+ - [Sub Folder](./Sub%20Folder) - Contains sample music and picturs for TouchDesigner projects and photos from the 'Artist Nest' exhibition.
 
 
 ## Resume
