@@ -88,10 +88,11 @@ Mastering the Matte operator to finely control the transparency and interaction 
 This project enhanced my proficiency in TouchDesigner, especially in manipulating visual elements like particle systems and transparency. It showcased the practical application of complex visual programming in creating aesthetically compelling digital artworks.
 
 
-### Audioreactive.toe 
-- [ Audio Reactive Project (TouchDesigner)](./Audioreactive.toe)
+### audio_spectrum.toe 
+- [ Audio Reactive Project (TouchDesigner)](./audio_spectrum.toe)
 
-**Description:** Crafted an interactive visual that consists of an array of small squares, which dynamically adjust their size and position in response to music. This project utilizes TouchDesigner's robust audio-reactive capabilities to create a responsive and engaging visual display.
+**Description:** This project showcases an immersive, interactive color spectrum flowing dynamically with the beats of music, brought to life using TouchDesigner's feedback operation. It presents a visual symphony, orchestrated through the modulation of colors and movement in harmony with the audio input, reflecting the essence of the sound in a vivid visual language.
+
 
 **Role:** Led the implementation of the interactive elements using TouchDesigner, focusing on real-time audio responsiveness.
 
