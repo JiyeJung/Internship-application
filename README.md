@@ -1,4 +1,4 @@
-# Internship Application - Jung Ji-ye's Portfolio
+# Description
 
 ## Introduction
 Welcome to my professional portfolio. This collection of work demonstrates my journey across system development and visual production, highlighting my technical competencies and creative endeavors.
