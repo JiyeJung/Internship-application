@@ -130,10 +130,10 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 **Results and Impact:** The festival attracted nationwide attention and bolstered Daejeon City's commitment to fostering the intersection of art and science. My management of notable exhibitions like 'City of Sound' and 'Formation of the City' contributed to the festival's interactive and immersive experience.
 
-<img src="sub/Artist_Nest_formation_of_the_city_1.jpeg" width="400" alt="Formation of the City 1"/>
-<img src="sub/Artist_Nest_formation_of_the_city_2.jpeg" width="400" alt="Formation of the City 2"/>
-<img src="sub/Artist_Nest_city_of_sound.jpeg" width="400" alt="City of Sound "/>
-<img src="sub/artist_Nest_performance_Alice.jpg" width="400" alt="Performance Alice"/>
+<img src="Sub%20Folder/Artist_Nest_formation_of_the_city_1.jpeg" width="400" alt="Formation of the City 1"/>
+<img src="Sub%20Folder/Artist_Nest_formation_of_the_city_2.jpeg" width="400" alt="Formation of the City 2"/>
+<img src="Sub%20Folder/Artist_Nest_city_of_sound.jpeg" width="400" alt="City of Sound "/>
+<img src="Sub%20Folder/artist_Nest_performance_Alice.jpg" width="400" alt="Performance Alice"/>
 
 
 
