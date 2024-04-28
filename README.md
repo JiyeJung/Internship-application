@@ -13,6 +13,10 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 - [Kkumdori Music Video](#kkumdori-music-video)
 - [Artist Nest at the Art & Science Festival](#artist-nest-at-the-art--science-festival)
 
+
+ - [Sub Folder](./Sub-Folder) - Contains sample music and picturs for TouchDesigner projects and photos from the 'Artist Nest' exhibition.
+
+
 ## Resume
 Please find my resume attached which outlines my educational background, technical skills, and work history.
 - [CV_Jiye_Jung_2024.pdf](./CV_Jiye_Jung_2024.pdf)
