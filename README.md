@@ -17,8 +17,7 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
  - [Sub Folder](./Sub%20Folder) - Contains sample music and picturs for TouchDesigner projects and photos from the 'Artist Nest' exhibition.
 
 
-## Resume
-Please find my resume attached which outlines my educational background, technical skills, and work history.
+## CV
 - [CV_Jiye_Jung_2024.pdf](./CV_Jiye_Jung_2024.pdf)
 
 ## 3D Reconstruction Project
@@ -68,7 +67,7 @@ Please find my resume attached which outlines my educational background, technic
 ### Fireball.toe
 - [ Fireball Project (TouchDesigner)](./Fireball.toe)
 
-**Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
+**Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using Feedback in TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
 **Role:** Responsible for the complete design and development of the visual effects, ensuring seamless transitions and vibrant color changes to enhance the visual appeal.
 
@@ -98,7 +97,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 **Description:** This project showcases an immersive, interactive color spectrum flowing dynamically with the beats of music, brought to life using TouchDesigner's feedback operation. It presents a visual symphony, orchestrated through the modulation of colors and movement in harmony with the audio input, reflecting the essence of the sound in a vivid visual language.
 
 
-**Role:** Led the implementation of the interactive elements using TouchDesigner, focusing on real-time audio responsiveness.
+**Role:** Led the implementation of the interactive elements using Feedback and PBR in TouchDesigner, focusing on real-time audio responsiveness.
 
 **Challenges:** The challenge was fine-tuning the responsiveness of the visuals to various audio inputs, requiring meticulous adjustments to ensure synchronization and visual impact.
 
@@ -106,7 +105,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 
-**Technologies Used(Fireball,Audioreactive,Parrot):** TouchDesigner
+**Technologies Used(Fireball,Audio_spectrum,Parrot):** TouchDesigner
 
 ## Angel Project Indie Wamma
 - [ Angel Project Indie Wamma](./Angel_project_Indiwamma_480.mov)
