@@ -76,7 +76,7 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 **Results and Impact:** This project served as a valuable exploration into the capabilities of TouchDesigner, enhancing my skills in visual programming and digital art creation.
 
 ### Parrot.toe
-- [ Parrot Project (TouchDesigner)](./Parrot.toe)
+- [ Parrot Project (TouchDesigner)](./Parrot_splash.toe)
 
 ### Description
 This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
@@ -92,7 +92,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 ### audio_spectrum.toe 
-- [ Audio Reactive Project (TouchDesigner)](./audio_spectrum.toe)
+- [ Audio Reactive Project (TouchDesigner)](./AudioSpectrum.toe)
 
 **Description:** This project showcases an immersive, interactive color spectrum flowing dynamically with the beats of music, brought to life using TouchDesigner's feedback operation. It presents a visual symphony, orchestrated through the modulation of colors and movement in harmony with the audio input, reflecting the essence of the sound in a vivid visual language.
 
@@ -138,7 +138,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 ### Kkumdori Music Video
-- [ Kkumdori Music Video](./Music_Video_Kkumdori.mp4)
+- [ Kkumdori Music Video](./MusicVideo_Kkumdori.mp4)
 
 **Description:** This music video was a compilation of scenes from a web drama I acted in during 2021. My contributions to the production included both acting and assistance in editing, working to ensure thematic consistency across various scenes.
 
