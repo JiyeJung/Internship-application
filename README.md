@@ -105,7 +105,10 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 
-**Technologies Used(Fireball,Audio_spectrum,Parrot):** TouchDesigner
+**Technologies Used(Fireball,Audio_spectrum,Parrot):** 
+TouchDesigner
+Referencing tutorials by Noto and Pao Olea
+
 
 ## Angel Project Indie Wamma
 - [ Angel Project Indie Wamma](./Angel_project_Indiwamma_480.mov)
