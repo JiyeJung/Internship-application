@@ -62,10 +62,14 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 
 ## Touchdesigner Work
 
-
+**Technologies Used(Fireball,Audio_spectrum,Parrot):** 
+TouchDesigner
+Referencing tutorials by Noto and Pao Olea.
+You may need to download mp3 and png files and set their paths in the input operators in TouchDesigner to run those projects. If you just want to check the outputs, I have also provided short videos of them.
 
 ### Fireball.toe
 - [ Fireball Project (TouchDesigner)](./Fireball.toe)
+- [ Video ](https://youtu.be/XErtUyoNGos)
 
 **Description:** Developed a visually engaging representation of a sphere surrounded by dynamic flames, which simulates the effects of a magnetic field or gravity. This piece features the sphere in constant rotation with changing colors, created using Feedback and Edge in TouchDesigner. While not interactive, this project focuses on visual aesthetics and dynamic behaviors in a simulated environment.
 
@@ -77,6 +81,7 @@ Welcome to my professional portfolio. This collection of work demonstrates my jo
 
 ### Parrot.toe
 - [ Parrot Project (TouchDesigner)](./Parrot_splash.toe)
+- [ Video ](https://youtu.be/s6R-iPzba9E)
 
 ### Description
 This project creatively leverages TouchDesigner to animate a parrot image with sophisticated particle effects and semi-transparent overlays. Using the Particle GPU and Matte operators, it emphasizes the intricate balance of transparency and image depth, enhancing the visual appeal through the layering of these elements.
@@ -93,6 +98,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 ### audio_spectrum.toe 
 - [ Audio Reactive Project (TouchDesigner)](./AudioSpectrum.toe)
+- [ Video ](https://youtu.be/R3RnPh_D3Cc)
 
 **Description:** This project showcases an immersive, interactive color spectrum flowing dynamically with the beats of music, brought to life using TouchDesigner's feedback operation. It presents a visual symphony, orchestrated through the modulation of colors and movement in harmony with the audio input, reflecting the essence of the sound in a vivid visual language.
 
@@ -105,9 +111,8 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 
 
-**Technologies Used(Fireball,Audio_spectrum,Parrot):** 
-TouchDesigner
-Referencing tutorials by Noto and Pao Olea
+
+
 
 
 ## Angel Project Indie Wamma
