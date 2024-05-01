@@ -117,6 +117,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 ## Angel Project Indie Wamma
 - [ Angel Project Indie Wamma](./Angel_project_Indiwamma_480.mov)
+- [ Youtube Video link](https://youtu.be/mroQF4HU51M)
 **Description:** Directed by Lim Ho-kyung, this series of video pieces was a collaborative fusion of performance and poetry funded by a public contest by the Korea Foundation for the Arts in 2021. My role encompassed production, direction, editing, acting, and narration across all five pieces. These works were a submission to the Bucheon International Fantastic Film Festival, showcasing the interplay of video, music, and narrative.
 
 **Technologies Used:** Final Cut Pro
@@ -147,6 +148,7 @@ This project enhanced my proficiency in TouchDesigner, especially in manipulatin
 
 ### Kkumdori Music Video
 - [ Kkumdori Music Video](./MusicVideo_Kkumdori.mp4)
+- [ Youtube Video link](https://www.youtube.com/watch?v=Cq05qaMFv5A)
 
 **Description:** This music video was a compilation of scenes from a web drama I acted in during 2021. My contributions to the production included both acting and assistance in editing, working to ensure thematic consistency across various scenes.
 
